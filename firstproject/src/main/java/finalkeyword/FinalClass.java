@@ -1,10 +1,10 @@
-package firstproject;
+package finalkeyword;
 
-public class Student {
+public final class FinalClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("salma");
+
 	}
 
 }
